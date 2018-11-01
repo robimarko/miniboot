@@ -20,7 +20,7 @@ $ avr-size -B miniboot.elf
 
 ## Get the sources
 
-`git clone --recursive  https://github.com/mihaigalos/miniboot.git`
+`git clone --recursive  https://github.com/robimarko/miniboot.git`
 
 If you've downloaded the sources manually, make sure to also manually download the dependencies (i.e. : I2C-master-lib), they are not automatically downloaded!
 
